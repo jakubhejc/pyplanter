@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 
-"""
-Created on Wed Mar 16 14:07:07 2022
-
-@author: rredi
-"""
-
 import os
 import shutil
 import h5py as h
